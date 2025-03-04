@@ -1,0 +1,59 @@
+body {
+  background:
+  conic-gradient(white, rgb(235, 234, 234));
+  text-align: center;
+}
+
+#banner {
+  display: block;
+  margin: 0 auto;
+  width: 100%;
+  max-width: 200px;
+}
+.mainimage {
+  width: 80%;
+}
+
+
+#slogan h1 {
+  font-size: 42px;
+  margin-top: -2px;
+}
+        h1 span {
+  color: rgb(124, 61, 155);
+}
+
+
+h2 {
+  font-size: 40px;
+  font-weight: normal;
+}
+
+#info .maintext {
+  font-size: 26px;
+  line-height: 40px;
+}
+#info span {
+    font-size: 40px;
+    color: rgb(124, 61, 155);
+    
+}
+
+#line {
+  width: 850px;
+  height: 0px;
+  border: 1px solid rgb(9, 10, 10);
+  margin: auto;
+  }
+
+#socialmedias {
+  font-size: 19px;
+  margin-top: 24px;
+  text-decoration: dotted;
+  color: black;
+}
+#socialmedias a:hover {
+    font-size: 24px;
+    color: rgb(124, 61, 155);
+    text-decoration: dashed;
+}
